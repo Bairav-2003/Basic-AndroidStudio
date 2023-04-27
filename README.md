@@ -1,8 +1,8 @@
 # Basic-AndroidStudio
 ### Program:
 ~~~
-Developed By: P.SYAM TEJ
-Register Number: 212221240056
+Developed By: Bairav skandan loha
+Register Number: 212221230010
 ~~~
 ### MainActivity.java:
 ~~~
